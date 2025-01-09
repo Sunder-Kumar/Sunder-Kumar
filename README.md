@@ -19,27 +19,15 @@
 ### 🧠 Fun Fact:
 I’m love about traveling, enjoying new cultures, and discovering hidden gems around the world."
 
-## 🛠️ Languages & Tools
+### Languages
+| <img alt='c++' width='32px' height='32px' src='https://skillicons.dev/icons?i=cpp'/>|<img alt='R' width='32px' height='32px' src='https://skillicons.dev/icons?i=python'/>|<img alt='python' width='32px' height='32px' src='https://skillicons.dev/icons?i=mongodb'/>|
+|---|---|---|
+|<img alt='javascript' width='32px' height='32px' src='https://skillicons.dev/icons?i=cassandra'/>|<img alt='SQL' width='32px' height='32px' src='https://skillicons.dev/icons?i=mysql'/>|<img alt='Django' width='32px' height='32px' src='https://skillicons.dev/icons?i=js'/>
 
-### Languages:
-- C++
-- Python
-- JavaScript
-- R
-- SQL
 
-### Tools & Frameworks:
-- Cassandra
-- MongoDB
-- PyTorch
-- OpenCV
-- CUDA
-- JAX
-- Keras
-- TensorFlow
-- Git
-- Terminal/Bash
-
----
+### Tools and Frameworks
+|<img alt='cassandra' width='32px' height='32px' src='https://skillicons.dev/icons?i=pytorch'/> |<img alt='mongodb' width='32px' height='32px' src='https://skillicons.dev/icons?i=tensorflow'/>|<img alt='PyTorch' width='32px' height='32px' src='https://skillicons.dev/icons?i=docker'>| <img alt='Open CV' width='32px' height='32px' src='https://skillicons.dev/icons?i=aws'/>| <img alt='CUDA' width='40px' height='32px' src='https://skillicons.dev/icons?i=gcp'>|
+|---|---|---|---|---|
+|<img alt='JAX' width='40px' height='32px' src='https://skillicons.dev/icons?i=kubernetes'/>|<img alt='Keras' width='45px' height='32px' src='https://skillicons.dev/icons?i=fastapi'/> | <img alt='TensorFlow' width='55px' height='32px' src='https://skillicons.dev/icons?i=cmake'/> |<img alt='git' width='32px' height='32px' src='https://skillicons.dev/icons?i=git'/>| <img alt='terminal/bash' width='32px' height='32px' src='https://skillicons.dev/icons?i=elasticsearch'/>|
 
 Feel free to check out my repositories for more of my work. ✨
