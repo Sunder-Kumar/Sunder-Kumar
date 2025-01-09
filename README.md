@@ -7,7 +7,7 @@
 ## Hi, I'm Sunder Kumar. I am a Student who likes to read, play video games and code.
 
 <a href='https://undraw.co/'> 
-    <img align='right' alt='programmer' width=60% src='./undraw_code_thinking_1jeh (2).svg'/>
+    <img align='right' alt='programmer' width=60% src='./undraw_code-thinking_0vf2.svg'/>
 </a>
 
 - 🌱 I’m currently learning **Full Satck**, **Mern Stack**, **Mean Satck**, and **ASP.net**.
@@ -20,7 +20,7 @@
 ---
 
 ### 🧠 Fun Fact:
-I’m love about traveling, enjoying new cultures, and discovering hidden gems around the world."
+"I’m love about traveling, enjoying new cultures, and discovering hidden gems around the world."
 
 ### Languages
 | <img alt='c++' width='32px' height='32px' src='https://skillicons.dev/icons?i=cpp'/>|<img alt='R' width='32px' height='32px' src='https://skillicons.dev/icons?i=python'/>|<img alt='python' width='32px' height='32px' src='https://skillicons.dev/icons?i=mongodb'/>|
