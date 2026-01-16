@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunder-kumar-841068279) 
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/ed_sunder12/profilecard/?igsh=Z2I1M3ppMmVtYW9k)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:skmalhi157@gmail.com)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Sunder-Kumar" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Sunder-Kumar.Sunder-Kumar&title=Profile%20Views" alt="visitor badge" />
 
 
 ## Hi, I'm Sunder Kumar. I am a Student who likes to read, play video games and code.
