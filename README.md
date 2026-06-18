@@ -91,11 +91,11 @@ AI-powered creative workspace with AI chat, story generation, and content creati
 
 <p align="center">
 
-<a href="https://ai-creative-platform-nu.vercel.app/">
+<a href="https://ai-creative-platform-git-main-sunder-kumars-projects.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE-Demo-success?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/sunder-kumar/ai-creative-platform">
+<a href="https://github.com/Sunder-Kumar/AI-Creative-Platform">
 <img src="https://img.shields.io/badge/CODE-Github-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -118,11 +118,11 @@ Personal developer portfolio showcasing projects, skills and contact system.
 
 <p align="center">
 
-<a href="#">
+<a href="https://www.sunderkumar.tech/">
 <img src="https://img.shields.io/badge/LIVE-Demo-success?style=for-the-badge"/>
 </a>
 
-<a href="#">
+<a href="https://www.sunderkumar.tech/">
 <img src="https://img.shields.io/badge/CODE-Github-black?style=for-the-badge&logo=github"/>
 </a>
 
