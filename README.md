@@ -29,7 +29,11 @@ I build modern web applications, AI powered platforms, and scalable digital solu
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sunder-Kumar&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+<img 
+src="https://img.shields.io/badge/Profile%20Views-Visitor-blue?style=for-the-badge&logo=github"
+/>
+
 </p>
 
 </div>
